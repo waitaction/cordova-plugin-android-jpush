@@ -25,7 +25,7 @@
         "cordova-plugin-device": "*",
         "cordova-plugin-jcore": ">=1.2.8"
     },
-    "author": "JiGuang",
+    "author": "waitaction",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/waitaction/cordova-plugin-android-jpush/issues"
