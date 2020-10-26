@@ -1,6 +1,6 @@
 {
     "name": "cordova-plugin-android-jpush",
-    "version": "3.6.5",
+    "version": "3.6.6",
     "description": "JPush for cordova plugin",
     "cordova": {
         "id": "cordova-plugin-android-jpush",
