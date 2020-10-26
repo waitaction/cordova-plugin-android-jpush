@@ -16,7 +16,7 @@
 
   <!-- dependencies -->
   <dependency id="cordova-plugin-device" />
-  <dependency id="cordova-plugin-jcore" />
+  <dependency id="cordova-plugin-android-jcore" />
 
   <js-module src="www/JPushPlugin.js" name="JPushPlugin">
     <clobbers target="JPush" />
